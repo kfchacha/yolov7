@@ -1,7 +1,7 @@
 # YOLOv7 + OCR + TTS: Vision-to-Speech AI Microservice
 
 This project integrates **object detection**, **text recognition (OCR)**, and **text-to-speech (TTS)** into one microservice.  
-It detects visual objects using **YOLOv7**, extracts text from cropped regions, and sends it to a TTS microservice for narration — enabling assistive capabilities for visually impaired users.
+It detects visual objects using **YOLOv7**, extracts text from cropped regions, and sends it to an OCR and TTS microservice for narration enabling assistive capabilities for visually impaired users.
 
 ---
 

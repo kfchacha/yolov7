@@ -1,0 +1,5 @@
+train: /content/gdrive/MyDrive/yolov7/pages-detection-1/train
+val: /content/gdrive/MyDrive/yolov7/pages-detection-1/valid
+
+nc: 1  # Number of classes
+names: ['Text_Region']  # List of class names

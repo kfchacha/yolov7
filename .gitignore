@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+
+# YOLOv7 outputs
+runs/
+detections/
+detections_try/
+merged_crops/
+
+# Model weights
+*.pt
+traced_model.pt
+*.weights
+
+# Logs, temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
